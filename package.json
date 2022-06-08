@@ -1,1 +1,0 @@
-{ course: devops, batch: freshers }
